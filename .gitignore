@@ -1,0 +1,7 @@
+alerthub_v2.db
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+.DS_Store
